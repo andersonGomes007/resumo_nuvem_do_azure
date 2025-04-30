@@ -1,0 +1,1 @@
+# resumo_nuvem_do_azure
